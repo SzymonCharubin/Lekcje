@@ -1,0 +1,19 @@
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+h1{
+    text-align: left;
+}
+#who{
+    text-align: right;
+}
+#box{
+     margin: 2px;
+}
+#logOut{
+    margin-left: 20px;
+}
